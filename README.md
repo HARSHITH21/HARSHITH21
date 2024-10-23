@@ -11,7 +11,7 @@ I’m a Data Scientist with a passion for solving real-world problems using data
 
 ### 🔧 Technical Skills
 - **Languages:** Python, C, R, SQL, Java, HTML, CSS
-- **Tools:** Microsoft Excel, Scikit-learn, TensorFlow, Seaborn
+- **Tools:** Microsoft Excel, Scikit-learn, TensorFlow, Pytorch, Seaborn
 - **Frameworks & Models:** Spring Boot, Linear Regression, Decision Trees, Random Forest, Apache Spark, Hadoop, NumPy, Pandas
 
 ---
