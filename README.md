@@ -1,7 +1,7 @@
 
 # Hi there, I'm Harshith Gade 👋
 
-I’m a Data Scientist with a passion for solving real-world problems using data-driven solutions. I’m currently pursuing my Master's in Data Science at NJIT and have experience working in software development and machine learning.
+I’m a Data Scientist with a passion for solving real-world problems using data-driven solutions. I’m currently pursuing my Master's in Data Science at NJIT and have experience working in machine learning and Data Visualisation.
 
 - 🌱 I’m currently enhancing my skills in Machine Learning, Deep Learning, Data Visualisation, Cloud Computing and Artificial Intelligence.
 - 👯 I’m looking to collaborate on projects related to Data Science and Machine Learning
