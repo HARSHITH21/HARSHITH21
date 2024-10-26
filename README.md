@@ -19,7 +19,7 @@ I’m a Data Scientist with a passion for solving real-world problems using data
 ### 📂 Featured Projects
 Here are some of the projects I've worked on:
 
-1. **[Netflix Recommendation System using BERT](https://github.com/HARSHITH21/Netflix-Recommendation-System-using-BERT)**
+1. **[Netflix Recommendation System using BERT](https://github.com/HARSHITH21/Netflix-Recommendation-System-using-BERT.)**
    - Built a recommendation system combining BERT and MLP for highly personalized movie and series recommendations.
    - Enhanced content discovery by using BERT for content analysis and MLP for preference learning.
    - **Technologies Used:** Python, TensorFlow, BERT, MLP, Pandas, Scikit-learn
