@@ -35,7 +35,8 @@ Here are some of the projects I've worked on:
    - **Technologies Used:** R, rvest, ggplot2, dplyr
 
 4. **[Flight Data Analysis](https://github.com/HARSHITH21/Flight-Data-Analysis)**
-      Analyzed flight data with **Apache Hadoop** and **Oozie workflows** to derive insights on:
+
+    Analyzed flight data with **Apache Hadoop** and **Oozie workflows** to derive insights on:
       
       - **On-Time Performance**: Ranked airlines based on delays.
       - **Taxi Times**: Evaluated airport efficiency in ground operations.
