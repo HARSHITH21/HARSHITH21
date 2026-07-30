@@ -5,8 +5,7 @@ I’m a Data Scientist with a passion for solving real-world problems using data
 
 - 🌱 I’m currently enhancing my skills in Machine Learning, Deep Learning, Data Visualisation, Cloud Computing and Artificial Intelligence.
 - 👯 I’m looking to collaborate on projects related to Data Science and Machine Learning
-- 📫 How to reach me: [harshith.gade123@gmail.com](mailto:harshith.gade123@gmail.com) | [LinkedIn](https://www.linkedin.com/in/har-shith-gade-98332735b/)
-
+- 📫 How to reach me: [harshithg9033@gmail.com](mailto:harshithg9033@gmail.com) | 
 ---
 
 ### 🔧 Technical Skills
