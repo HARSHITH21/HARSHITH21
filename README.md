@@ -51,4 +51,3 @@ Here are some of the projects I've worked on:
 
 ---
 
-Feel free to explore my repositories or connect with me on [LinkedIn](https://www.linkedin.com/in/harshith-gade-1297b81aa/)!
